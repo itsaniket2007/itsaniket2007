@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Aniket Kumar Pathak
+# Hi 👋, I'm Aniket Kumar Pathak
 **A passionate Computer Science Student || Aspiring AI Engineer || Problem Solver from India 🇮🇳**
 
 ## ⚡ Encrypted Skill Matrix
