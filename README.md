@@ -1,4 +1,16 @@
+# 💫 Hi 👋, I'm Aniket Kumar Pathak
+**A passionate Computer Science Student || Aspiring AI Engineer || Problem Solver from India 🇮🇳**
 
+Email Me 👉 ✉️ **itsaniket2007@gmail.com** For Project or Anything Else. 😊😊
+
+- 🔭 **I’m currently working on:** Building projects in Data Structures, Algorithms, and AI-based applications
+- 🌱 **I’m currently learning:** Machine Learning, Kotlin, Competitive Programming and DevOps fundamentals
+- 👯 **I’m looking to collaborate on:** Open-source projects, AI/ML projects, and innovative tech ideas
+- 🤔 **I’m looking for help with:** Competitive problems, system design, and real-world AI implementation
+- 💬 **Ask me about:** Python, Data Analysis, OpenCV, Selenium, Django, Flask, C++, DSA, Flutter, Figma, Kotlin & Dart
+- 📫 **How to reach me:** itsaniket2007@gmail.com
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I debug faster with logic than with coffee ☕
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-kumar-pathak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:itsaniket2007@gmail.com) 
 
