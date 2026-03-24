@@ -1,7 +1,7 @@
 # 💫 Hi 👋, I'm Aniket Kumar Pathak
 **A passionate Computer Science Student || Aspiring AI Engineer || Problem Solver from India 🇮🇳**
 
-## 🐍 Skill Snake
+## 🐍 Consistency
 
 ![snake](https://raw.githubusercontent.com/itsaniket2007/itsaniket2007/main/dist/skill-snake.svg)
 
