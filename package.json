@@ -1,0 +1,21 @@
+{
+  "name": "itsaniket2007",
+  "version": "1.0.0",
+  "description": "**A passionate Computer Science Student || Aspiring AI Engineer || Problem Solver from India 🇮🇳**",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itsaniket2007/itsaniket2007.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/itsaniket2007/itsaniket2007/issues"
+  },
+  "homepage": "https://github.com/itsaniket2007/itsaniket2007#readme"
+}
