@@ -1,6 +1,10 @@
 # 💫 Hi 👋, I'm Aniket Kumar Pathak
 **A passionate Computer Science Student || Aspiring AI Engineer || Problem Solver from India 🇮🇳**
 
+## 🐍 Skill Snake
+
+![snake](https://raw.githubusercontent.com/itsaniket2007/itsaniket2007/main/dist/skill-snake.svg)
+
 Email Me 👉 ✉️ **itsaniket2007@gmail.com** For Project or Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** Designing intelligent systems using AI/ML, strengthening problem-solving skills with DSA, and crafting production-ready applications
