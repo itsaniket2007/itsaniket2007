@@ -3,7 +3,7 @@
 
 Email Me 👉 ✉️ **itsaniket2007@gmail.com** For Project or Anything Else. 😊😊
 
-- 🔭 **I’m currently working on:** Building projects in Data Structures, Algorithms, and AI-based applications
+- 🔭 **I’m currently working on:** Designing intelligent systems using AI/ML, strengthening problem-solving skills with DSA, and crafting production-ready applications
 - 🌱 **I’m currently learning:** Machine Learning, Kotlin, Competitive Programming and DevOps fundamentals
 - 👯 **I’m looking to collaborate on:** Open-source projects, AI/ML projects, and innovative tech ideas
 - 🤔 **I’m looking for help with:** Competitive problems, system design, and real-world AI implementation
